@@ -1,0 +1,85 @@
+/*This is my first assignment for the Intro to Interactive Media course 
+  Assignment: to create a self-portrait
+  
+  This program was written by Aiya Sartbayeva
+  26 January 2021
+*/
+
+//the size of the canvas
+size(600, 600);
+background(239, 255, 97);
+
+//hair
+int hairwidth = 350;
+int hairheight = 380;
+stroke(61,36,21);
+fill(61,36,21);
+ellipse(width/2, (height/3)+35, hairwidth, hairheight);
+rect(125,250,hairwidth,250);
+
+//neck and face
+int facewidth = 250;
+int faceheight = 290;
+stroke(0);
+fill(225,198,153);
+rect(260,355,80,55);
+ellipse(width/2, (height/3)+35, facewidth, faceheight);
+
+//eyebrows
+stroke(61,36,21);
+strokeWeight(5);
+arc(240, 200, 60, 15, radians(200), radians(340));
+arc(360, 200, 60, 15, radians(200), radians(340));
+
+//eyeballs
+stroke(225,225,225);
+fill(225,225,225);
+ellipse(240, 220, 50, 15);
+ellipse(360, 220, 50, 15);
+
+//pupil
+stroke(0);
+fill(0);
+ellipse(240, 220, 20, 15);
+ellipse(360, 220, 20, 15);
+
+//blink
+fill(225);
+ellipse(245,218,3,3);
+ellipse(365,218,3,3);
+
+//mouth
+stroke(255,8,57);
+strokeWeight(6);
+arc (300, 270, 130, 140, radians(30), radians(150), CHORD);
+
+//nose
+strokeWeight(1.5);
+stroke(0);
+fill(0);
+line(300, 245, 300, 275);
+
+//left eyelashes
+line(265, 207, 261, 211);
+line(255, 205, 251, 209);
+line(241, 204, 241, 208);
+line(225, 205, 231, 209);
+line(215, 207, 221, 211);
+
+//right eyelashes
+line(385, 207, 381, 211);
+line(375, 205, 371, 209);
+line(361, 204, 361, 208);
+line(345, 205, 351, 209);
+line(335, 207, 341, 211);
+
+//body
+stroke(227,152,209);
+fill(227,152,209);
+arc (300, 505, 475, 210, radians(180), radians(360), CHORD);
+
+
+
+
+
+
