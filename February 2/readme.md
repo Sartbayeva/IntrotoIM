@@ -19,5 +19,5 @@ Also, as I wanted to show different colors every second as LED effect it took so
 ## Screenshot ##
 
 Here is my final result:
-![](2021-02-02(2).png)
+![](screenshot.png)
 
