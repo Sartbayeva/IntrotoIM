@@ -22,5 +22,5 @@ Here is my final result:
 ![](screenshot.png)
 
 Gif version:
-![](video.gif)
+![](video.gif) 
 
