@@ -23,4 +23,8 @@ I learned how to
 4. Increment the score;
 5. Use the opacity, and change the bottom two angles of a rectangular.
 
+## Here is the final result:
+![](catchAsteroids1.jpg)
+![](catchAsteroids2.jpg)
+
 
