@@ -24,7 +24,7 @@ I learned how to
 5. Use the opacity, and change the bottom two angles of a rectangular.
 
 ## Here is the final result:
-![](catchAsteroids1.jpg)
-![](catchAsteroids2.jpg)
+![](catchAsteroids1.png)
+![](catchAsteroids2.png)
 
 
