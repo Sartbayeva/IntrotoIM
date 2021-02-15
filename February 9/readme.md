@@ -8,6 +8,8 @@ behind the OOP. I used arraylist, oblects and created 2 different classes for th
 ## Motivation:
 Initially, I created a game where a person should move a basket to catch simple goals. But then I got inspired by a movie Interstellar and decided to shape these simple balls 
 into asteroids. A person, shoulld catch these asteroids by moving basket.
+![](interstellar.jpg)
+![](asteroid.jpg)
 
 ## Difficulties:
 The most time-consuming and tricky part while processing this game was to catch the asteroids that are falling from top to bottom and put them inside the basket.
