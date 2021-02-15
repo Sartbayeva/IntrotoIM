@@ -40,7 +40,7 @@ void draw() { //draw function
   b.moveBasket();
   noStroke(); //without stroke
   fill(255, 80); //seeting opasity to 80
-  rect(0, 0, 110, 50); //rectangle as a background for score label
+  rect(0, 0, 120, 50); //rectangle as a background for score label
   textSize(22); //setting the size of text
   fill(255); //choosing color of text
   text("Score: " + str(count), 10, 30); //showing the score of a user
