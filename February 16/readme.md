@@ -11,13 +11,14 @@ I got inspired by a random word generator because I often used to see this kind 
 ## Discovery:
 I learned how to 
 1. Change the transparency/opacity of backgroung image
-      tint(255,50);
+tint(255,50);
 2. Convert string to Arrays
 3. Change the font type, mode and size of texts
-      println(PFont.list());
+println(PFont.list());
 
 ## Helpful resources:
 https://processing.org/tutorials/typography/
+
 https://www.youtube.com/watch?v=NLzne4XaR3M&t=1s
 
 ## Here is the final result:
