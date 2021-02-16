@@ -13,7 +13,9 @@ I learned how to
 1. Change the transparency/opacity of backgroung image
 
 tint(255,50);
+
 2. Convert string to Arrays
+
 3. Change the font type, mode and size of texts
 
 println(PFont.list());
