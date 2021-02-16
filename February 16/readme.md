@@ -1,7 +1,7 @@
 # Assignment 3: generative text or data visualisation
 
 ## Description: 
-This week's assignment required us to either create a data visulisation or a generative text. I decide to create a generative text. Initially, I was planning to show different popular brands 
+This week's assignment required us to either create a data visulisation or a generative text. I decided to create a generative text. Initially, I was planning to show different popular brands 
 in fashion industry but then came up with the idea of generating the names of creative students in this Introduction to Interactive Media class.
 
 ## Motivation:
