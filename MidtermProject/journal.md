@@ -1,7 +1,19 @@
-## Project Idea
+# February 18, 2021: #
 
-Initially I was planning to create a race game between cars. However, for the past days I have been thinking about a game 
-that I used to play with my classmates during the breaks at primary school. And decided to implement a similar game. 
+[deciding on my game] When I heard that we are going to create a game for our Midterm project, I decided to implement a race game between two cars. Today, I looked at other car race games and imagined a design of my vehicles and roads. 
 
-# January 23: #
-Today I allocated my time to looking for and choosing background images for my game. The theme of my game will be dedicated to NYUAD's Atheltics Departament. My main player would be Faiza
+# February 20, 2021: #
+
+[coming up with another topic] Hey, I changed my mind. Unfortunately, I will not create a car race because to be honest, I did not like the concept of this game and other than that there were some parts that I would not be able to code thoroughly in this short time. So, considering and taking into account my level in programming I will implement a game which I really can do it myself. This game is similar to popular Flappy Bird game, which was created by Vietnamise video artist and is played by many people around the world. I want to change the character of this game, particularly instead of a bird I want to have NYUAD’s mascot as the main character. Also, I want the theme of this game to be dedicated to our university’s Health and Athletics Departments.
+
+# February 21, 2021: #
+[collecting images and learning new software] As all of us know, NYUAD’s mascot is Falcon bird, whose name is Faiza. I did typed in on Google however I could not find an animated image of Faiza. That is why I then searched for a mascot of NYU in New York, and found it. It is a Bobcat. I wanted to use this image but unfortunately it’s size is 920 and 1112, which was too big for a window of my game. Then, I opened for myself a free and open-source raster graphics editor used for image manipulation and image edit called GIMP. I downloaded this software, played around with several functions and properties. Especially, I found a very comfortable and easy feature to rescale images. As the character’s size has to be smallI, I scaled Bobcat width and height to 83 and 100, respectively. But UNFORTUNATELY, because of reducing the size of Bobcat from large to small one, the image lost its quality. It was totally not good! My mood is spoiled now ;((( I really wanted to use Falcon or at least Bobcat as my main character and load images of campus as a background… Now I need to change my character.
+
+# February 22, 2021 #
+[Jerry and Pipes - timeconsuming] I am sure that all of us watched at least 1 episode of Tom and Jerry. Today, my choice fell on Jerry as it's a very loyal, innocent and tiny character that I ever knew lol. So, I found its image and uploaded it to GIMP to change its size. Fortunately, compared to last case, this one’s quality was not bad. But again, I faced a problem. I could not remove the white background of the picture. So, I decided to leave as it is for a while and found background and images of pipes. To be honest, I did not expect that collecting images would be so time-consuming. Yes, you find images that you need but not all of them have a size(width,height) that your canva’s needs. Thanks to GIMP, I played around with the scale of my pipes. On the internet I could find only the bottom pipe, that is why I did the top pipe myself by vertically flipping the bottom pipe. Uhh, I guess materials are now ready and tomorrow I will work on coding.
+
+# February 23, 2021 #
+[pipes are the whole thing!] Today, I learned how to animated background, finally! I always wondered how the background images of games that we play everyday are moving like from right to left. Not so difficult. Also, as I faced several problems with looping and incrementing pipes, for example some pipes’ heights were too short that there was a space between bottom/earth of the window and height of the pipes. Moreover, during the drawing function some pipes were placed on top of each other. I got really mad because I could not see where the problem was. So, to debug that problem I decided to draw coordinates to understand the exact location of pipes, gaps between them, and also the distance. 
+
+# February 25, 2021 #
+[]
