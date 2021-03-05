@@ -25,7 +25,11 @@ My motive came from the animated TV series the Powerpuff Girls. It is one of my 
 There were quite a lot of bugs while creating the game. Major problems:
 
 1. **Identifying the location of pipes, the size and number, and distance between the top and bottom pipes.**
-It may look an easy task, however this part took me roughly a couple of days to achieve the perfect state. I faced several problems with looping and incrementing pipes, for example some pipes’ heights were too short that there was a space between bottom/earth of the window and height of the pipes. Moreover, during the drawing function some pipes were placed on top of each other. I got really mad because I could not see where the problem was. So, to debug that problem I decided to draw coordinates to understand the exact location of pipes, gaps between them, and also the distance, on my iPad. 
+It may look an easy task, however this part took me roughly a couple of days to achieve the perfect state. I faced several problems with looping and incrementing pipes, for example some pipes’ heights were too short that there was a space between bottom/earth of the window and height of the pipes. Moreover, during the drawing function some pipes were placed on top of each other. 
+![]https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/pipeproblem.png
+![]https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/problemwithpipeheights.png
+
+I got really mad because I could not see where the problem was. So, to debug that problem I decided to draw coordinates to understand the exact location of pipes, gaps between them, and also the distance, on my iPad. 
     *After sketching on notes, I kind of understood the logic behind locating these pipes.*
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch1.jfif)
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch2.jfif)
@@ -33,7 +37,11 @@ It may look an easy task, however this part took me roughly a couple of days to 
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch4.jfif)
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch5.jfif)
 2. **Incrementing Scores.**
-According to the instructions, a player has to get 1 point after successfully passing through a pair of pipes. It took time to figure out the RIGHT code to get this 1 point because mine gave a player 31 points for passing only one pair of pipes. I was like I am using score++ , what the hell is it adding 30 more? It turned out to be my frameRate. I have not come up with a solution before I tried to divide my score to 31 in my code. LOL. It was so dumb to just divide everything to the number of framerate. I was so happy with that unless I realized that because of this division the background music has started producing very weird sounds when each time the score increases by 1. It was because of the frame rate decrease. Then owing to having a quick Zoom call with my Professor, I could solve this problem. 
+According to the instructions, a player has to get 1 point after successfully passing through a pair of pipes. It took time to figure out the RIGHT code to get this 1 point because mine gave a player 31 points for passing only one pair of pipes. I was like I am using score++ , what the hell is it adding 30 more? It turned out to be my frameRate. I have not come up with a solution before I tried to divide my score to 31 in my code. LOL, it worked. 
+
+![]https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/scoreproblem.png
+
+But it was so dumb to just divide everything to the number of framerate. I was so happy with that unless I realized that because of this division the background music has started producing very weird sounds when each time the score increases by 1. It was because of the frame rate decrease. Then owing to having a quick Zoom call with my Professor, I could solve this problem. 
 3. **Choosing character.**
 Initially, my plan was to create a game, which will be dedicated to NYUAD’s Health and Welness departments. I wanted my main character to be Falcon  Faiza. Unfortunately, I could not find the animated/sketched picture of it, then decided to use NYUNY’s mascot - Bobcat because I found its image. However, the size of the picture is so large that even though I resized it with the help of another software, the quality was so bad. Then, I chose Jerry as my character from Tom and Jerry. It was all perfect, until I realized that I was not able to remove its white background and make it transparent. I watched tutorials to get to know how to remove its background, I repeated every step they showed but no result. Eventually, I came up with a Blossom from The Powerpuff Girls.
 
