@@ -36,14 +36,22 @@ I got really mad because I could not see where the problem was. So, to debug tha
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch3.jfif)
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch4.jfif)
     ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch5.jfif)
+    
 2. **Incrementing Scores.**
 According to the instructions, a player has to get 1 point after successfully passing through a pair of pipes. It took time to figure out the RIGHT code to get this 1 point because mine gave a player 31 points for passing only one pair of pipes. I was like I am using score++ , what the hell is it adding 30 more? It turned out to be my frameRate. I have not come up with a solution before I tried to divide my score to 31 in my code. LOL, it worked. 
 
-![]https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/scoreproblem.png
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/scoreproblem.png)
 
 But it was so dumb to just divide everything to the number of framerate. I was so happy with that unless I realized that because of this division the background music has started producing very weird sounds when each time the score increases by 1. It was because of the frame rate decrease. Then owing to having a quick Zoom call with my Professor, I could solve this problem. 
+
 3. **Choosing character.**
-Initially, my plan was to create a game, which will be dedicated to NYUAD’s Health and Welness departments. I wanted my main character to be Falcon  Faiza. Unfortunately, I could not find the animated/sketched picture of it, then decided to use NYUNY’s mascot - Bobcat because I found its image. However, the size of the picture is so large that even though I resized it with the help of another software, the quality was so bad. Then, I chose Jerry as my character from Tom and Jerry. It was all perfect, until I realized that I was not able to remove its white background and make it transparent. I watched tutorials to get to know how to remove its background, I repeated every step they showed but no result. Eventually, I came up with a Blossom from The Powerpuff Girls.
+Initially, my plan was to create a game, which will be dedicated to NYUAD’s Health and Welness departments. I wanted my main character to be Falcon  Faiza. Unfortunately, I could not find the animated/sketched picture of it, then decided to use NYUNY’s mascot - Bobcat because I found its image. 
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/bobcat.png)
+
+However, the size of the picture is so large that even though I resized it with the help of another software, the quality was so bad. Then, I chose Jerry as my character from Tom and Jerry. It was all perfect, until I realized that I was not able to remove its white background and make it transparent. 
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/tjerry.png)
+
+I watched tutorials to get to know how to remove its background, I repeated every step they showed but no result. Eventually, I came up with a Blossom from The Powerpuff Girls.
 
     Internet, Instructor and Professor
 I would like to highlight my source of help. Besides watching tutorials, reading reference pages of processing and playing around with my code, I want to mention assistance from Jack (IM instructor) and of course Professor Shiloh. When I could not solve some problems with my code, zoom meetings with them were like a magic wand :) I really appreciate their help. Thank You!
