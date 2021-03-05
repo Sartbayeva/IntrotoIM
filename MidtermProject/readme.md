@@ -4,18 +4,18 @@ For my Midterm Project, I eventually decided to create a game called The Flappy 
     Why this game?
 I got inspired by the very famous Flappy Bird game. It is one of the funniest games to play out there. I remember how during my primary school, I would come home from school and play this game for 51243 hours. That is why I thought it would be cool to recreate this game on my own after 8 years, play again and bring those memories back.
 
-## Description ##
+# Description 
 The logic of this arcade-style game is the same as in Flappy Bird. However, I changed my character, pipes, and background. The goal of the game is to control a powerpuff girl, which moves persistently to the right, by trying to fly between columns of golden pipes without hitting them. A Player controls the girl by using a spacebar key. Each successful pass through a pair of pipes awards the player one point. Colliding with a pipe or the ground ends the gameplay.
 
     About my character
 My motive came from the animated TV series the Powerpuff Girls. It is one of my favorite cartoons that I used to regularly watch with my classmate. There are 3 adorable girls, who were accidently created by a professor in his laboratory. He was making a mixture of sugar,spice,and everything nice to create the perfect little girl,but he accidently mixed in chemical X! Thus the powerpuff girls were born, who can FLY. Instead of a bird I chose one of these powerpuff girls, namely Bubbles. Because Bubbles is the cutest of the Powerpuff Girls known as "The Joy and the Laughter." 
 Photo of bubbles
 
-## Demonstration ##
+# Demonstration 
 
 Video goes here
 
-## Challenges & Reflection ##
+# Challenges & Reflection 
 
 There were quite a lot of bugs while creating the game. Major problems:
 
@@ -32,7 +32,7 @@ I would like to highlight my source of help. Besides watching tutorials, reading
 
 Overall, I am really happy that I could finish my first game as I wished. Even though it was challenging and time-consuming, I learned a lot, which is the most important. I am glad that I could use almost everything we have learned so far for these past 7 weeks. UNFORGETTABLE EXPERIENCE!
 
-## Things I found interesting:
+# Things I found interesting
 1. GIMP -  is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks. THANK CREATORS OF THIS APP!
 2. Importing Sounds. IT WAS FUUN!
 3. Animating background photo. I WAS ALWAYS CURIOUS ABOUT THAT, NOW I KNOW!
