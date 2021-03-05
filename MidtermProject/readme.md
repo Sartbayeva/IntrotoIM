@@ -59,7 +59,7 @@ I would like to highlight my source of help. Besides watching tutorials, reading
 
 **Overall**, I am really happy that I could finish my first game as I wished. Even though it was challenging and time-consuming, I learned a lot, which is the most important. I am glad that I could use almost everything we have learned so far for these past 7 weeks. UNFORGETTABLE EXPERIENCE!
 
-# Things I found interesting
+    Things I found interesting
 1. GIMP -  is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks. *THANK CREATORS OF THIS APP!*
 2. Importing Sounds. *IT WAS FUUN!*
 3. Animating background photo. *I WAS ALWAYS CURIOUS ABOUT THAT, NOW I KNOW!*
