@@ -20,7 +20,7 @@ My motive came from the animated TV series the Powerpuff Girls. It is one of my 
  ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/losePage.png)
  ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/winPage.png)
  
- https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/demonstration%20of%20my%20game.gif
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/demonstration%20of%20my%20game.gif) 
 
 # Challenges & Reflection 
 
