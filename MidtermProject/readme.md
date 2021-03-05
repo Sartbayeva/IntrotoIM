@@ -10,8 +10,8 @@ The logic of this arcade-style game is the same as in Flappy Bird. However, I ch
     About my character
 My motive came from the animated TV series the Powerpuff Girls. It is one of my favorite cartoons that I used to regularly watch with my classmate. There are 3 adorable girls, who were accidently created by a professor in his laboratory. He was making a mixture of sugar,spice,and everything nice to create the perfect little girl,but he accidently mixed in chemical X! Thus the powerpuff girls were born, who can FLY. Instead of a bird I chose one of these powerpuff girls, namely Bubbles. Because Bubbles is the cutest of the Powerpuff Girls known as "The Joy and the Laughter." 
 
-![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/problemwithpipeheights.png)
-![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/pipeproblem.png)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/powerpuff.jpg)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/bubblespng)
 
 # Demonstration 
  I have 3 pages: welcome, main, lose, and win:
@@ -26,8 +26,8 @@ There were quite a lot of bugs while creating the game. Major problems:
 
 1. **Identifying the location of pipes, the size and number, and distance between the top and bottom pipes.**
 It may look an easy task, however this part took me roughly a couple of days to achieve the perfect state. I faced several problems with looping and incrementing pipes, for example some pipes’ heights were too short that there was a space between bottom/earth of the window and height of the pipes. Moreover, during the drawing function some pipes were placed on top of each other. 
-![]https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/pipeproblem.png
-![]https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/problemwithpipeheights.png
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/problemwithpipeheights.png)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/pipeproblem.png)
 
 I got really mad because I could not see where the problem was. So, to debug that problem I decided to draw coordinates to understand the exact location of pipes, gaps between them, and also the distance, on my iPad. 
     *After sketching on notes, I kind of understood the logic behind locating these pipes.*
