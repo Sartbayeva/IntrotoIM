@@ -14,8 +14,11 @@ My motive came from the animated TV series the Powerpuff Girls. It is one of my 
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/bubbles.png) 
 
 # Demonstration 
-
-Video goes here
+ I have 3 pages: welcome, main, lose, and win:
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/welcomePage.png)
+ ![]
+ ![]()
+ ![]()
 
 # Challenges & Reflection 
 
