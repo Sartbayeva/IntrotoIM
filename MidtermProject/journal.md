@@ -26,13 +26,13 @@ I am sure that all of us watched at least 1 episode of Tom and Jerry. Today, my 
 ###### *pipes are the whole thing!*
 Today, I learned how to animated background, finally! I always wondered how the background images of games that we play everyday are moving like from right to left. Not so difficult. Also, as I faced several problems with looping and incrementing pipes, for example some pipes’ heights were too short that there was a space between bottom/earth of the window and height of the pipes. Moreover, during the drawing function some pipes were placed on top of each other. I got really mad because I could not see where the problem was. So, to debug that problem I decided to draw coordinates to understand the exact location of pipes, gaps between them, and also the distance.
 
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch1.jfif)
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch2.jfif)
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch3.jfif)
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch4.jfif)
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch5.jfif)
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/problemwithpipeheights.png)
-    ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/pipeproblem.png)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch1.jfif)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch2.jfif)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch3.jfif)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch4.jfif)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/sketch5.jfif)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/problemwithpipeheights.png)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/pipeproblem.png)
     
 
 ## February 25, 2021
