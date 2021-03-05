@@ -16,9 +16,9 @@ My motive came from the animated TV series the Powerpuff Girls. It is one of my 
 # Demonstration 
  I have 3 pages: welcome, main, lose, and win:
  ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/welcomePage.png)
- ![]
- ![]()
- ![]()
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/mainPage.png)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/losePage.png)
+ ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/winPage.png)
 
 # Challenges & Reflection 
 
