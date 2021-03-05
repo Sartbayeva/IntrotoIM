@@ -1,5 +1,7 @@
 For my Midterm Project, I eventually decided to create a game called **The Flappy Powerpuff Girl**.
 
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/demonstration%20of%20my%20game.gif) 
+
 # Inspiration
     Why this game?
 I got inspired by the very famous Flappy Bird game. It is one of the funniest games to play out there. I remember how during my primary school, I would come home from school and play this game for 51243 hours. That is why I thought it would be cool to recreate this game on my own after 8 years, play again and bring those memories back.
@@ -20,7 +22,6 @@ My motive came from the animated TV series the Powerpuff Girls. It is one of my 
  ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/losePage.png)
  ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/winPage.png)
  
- ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/demonstration%20of%20my%20game.gif) 
 
 # Challenges & Reflection 
 
