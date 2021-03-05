@@ -1,6 +1,6 @@
 For my Midterm Project, I eventually decided to create a game called The Flappy Powerpuff Girl.
 
-## Inspiration
+# Inspiration
     Why this game?
 I got inspired by the very famous Flappy Bird game. It is one of the funniest games to play out there. I remember how during my primary school, I would come home from school and play this game for 51243 hours. That is why I thought it would be cool to recreate this game on my own after 8 years, play again and bring those memories back.
 
