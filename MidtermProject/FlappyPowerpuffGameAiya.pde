@@ -106,7 +106,7 @@ void winpage() //page for winner
   rect(70, 180, 665, 160);
   textSize(30);
   fill(36, 201, 11); //green text
-  text("Congrats, you won! Your score is " + score + ". Good job!!!", width/2-200, height/2-20);
+  text("Congrats, you won! Your score is " + score + ".", width/2-240, height/2-20);
   fill(255, 0, 0);
   rect(150, 270, 220, 50);
   textSize(20);
