@@ -9,7 +9,7 @@ The logic of this arcade-style game is the same as in Flappy Bird. However, I ch
 
     About my character
 My motive came from the animated TV series the Powerpuff Girls. It is one of my favorite cartoons that I used to regularly watch with my classmate. There are 3 adorable girls, who were accidently created by a professor in his laboratory. He was making a mixture of sugar,spice,and everything nice to create the perfect little girl,but he accidently mixed in chemical X! Thus the powerpuff girls were born, who can FLY. Instead of a bird I chose one of these powerpuff girls, namely Bubbles. Because Bubbles is the cutest of the Powerpuff Girls known as "The Joy and the Laughter." 
-![](powerpuff.jpeg)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/powerpuff.jpg)
 ![](bubbles.png)
 
 # Demonstration 
