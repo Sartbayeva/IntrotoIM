@@ -57,7 +57,9 @@ I watched tutorials to get to know how to remove its background, I repeated ever
 ## Internet, Instructor and Professor
 I would like to highlight my source of help. Besides watching tutorials, reading reference pages of processing and playing around with my code, I want to mention assistance from Jack (IM instructor) and of course Professor Shiloh. When I could not solve some problems with my code, zoom meetings with them were like a magic wand :) I really appreciate their help. Thank You!
 
-**Overall**, I am really happy that I could finish my first game as I wished. Even though it was challenging and time-consuming, I learned a lot, which is the most important. I am glad that I could use almost everything we have learned so far for these past 7 weeks. UNFORGETTABLE EXPERIENCE!
+**Overall**, I am really happy that I could finish my first game as I wished. Even though it was challenging and time-consuming, I learned a lot, which is the most important. I am glad that I could use almost everything we have learned so far for these past 7 weeks. Especially, creating classes and objects. UNFORGETTABLE EXPERIENCE!
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/MidtermProject/images/objectoriented.png)
+
 
     Things I found interesting
 1. GIMP -  is a free and open-source raster graphics editor used for image manipulation and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks. *THANK CREATORS OF THIS APP!*
