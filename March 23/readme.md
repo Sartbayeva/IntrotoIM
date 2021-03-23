@@ -18,9 +18,11 @@ For a long time, my program was not giving the right output. Especially, I had a
 I created 2 different light patterns/puzzles.
 
 The *first* one:
+
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/March%2023/first_light%20pattern.gif)
 
 The *second* one:
+
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/March%2023/second_light%20pattern.gif)
 
 ## New vocabulary in Arduino program
