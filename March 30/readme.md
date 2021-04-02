@@ -44,7 +44,7 @@ Unfortunately, wherever I adjusted the potentiometer, only one led lit up. That 
 
 2. https://www.arduino.cc/en/tutorial/potentiometer
  
-# A video of the FINAL RESULT
+## A video of the FINAL RESULT
 https://youtu.be/08aGqNP7GbA
 
 *If you show this game to your kids, you lessen their chances of getting into an accident :D*
