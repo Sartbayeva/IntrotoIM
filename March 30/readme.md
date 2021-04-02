@@ -1,5 +1,5 @@
 # Help your children to learn traffic lights! :)
-## Arduino UNO Assignment 2: to create an arduino project that gets information from at least one analog sensor and at least one digital sensor and use this information to control at least two LEDs, one in a digital fashion and the other in an analog fashion
+### Arduino UNO Assignment 2: to create an arduino project that gets information from at least one analog sensor and at least one digital sensor and use this information to control at least two LEDs, one in a digital fashion and the other in an analog fashion
 
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/March%2030/lights.jpg)
 
