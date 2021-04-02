@@ -22,10 +22,14 @@ A user turns on LED lights one by one by adjusting a potentiometer and once the 
 # Challenges
 Compared to last week, setting up the circuit was much smoother for me. However, as I used a potentiometer for the first time I misplaced the location of wires. Theoretically, the third wire goes from analog input pin to the middle pin of the potentiometer. But mine was connected to the outer pin of the potentiometer. I realized it as soon as I checked my circuit for the second time.. Moreover, I had some problems with separating the functionality of the button and potentiometer because initially the button was not working at all as I expected, it was dependent on the potentiometer. Then, after playing about for quite a while, I managed to debug it with adding some if else statements. Other than that as we learned that we can read an output from the potentiometer and map its values from the base values of 0 - 1023 to values of 1 - 24 I wanted to convert potentiometer reading to a percentage as following code:
       [void loop() {
+      
       potMeasure = analogRead(potPin); //read the value from the potentiometer and assign the name potMeasure
-   percent = map(potValue, 0, 1023, 0, 100); / convert potentiometer reading to a percentage
- if (percent > 40) { //if the percentage is more than 40%...
-   digitalWrite(13, HIGH); // turn the red LED on
+  
+      percent = map(potValue, 0, 1023, 0, 100); / convert potentiometer reading to a percentage
+
+      if (percent > 40) { //if the percentage is more than 40%...
+  
+      digitalWrite(13, HIGH); // turn the red LED on
    digitalWrite(12, LOW); // turn the yellow LED off
    digitalWrite(11, LOW); // turn the green LED off
 And like this by changing the range of percentage. ]
