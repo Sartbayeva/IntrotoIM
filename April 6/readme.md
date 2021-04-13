@@ -1,4 +1,5 @@
-# Musical instrument - TRUMPET
+# Musical instrument - A TRUMPET
+
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/finalphoto.jfif)
 
 For this assignment, the task was to create an instrument that included one analogue input and one digital input.
@@ -6,6 +7,7 @@ For this assignment, the task was to create an instrument that included one anal
 ## Attempt 1 - alarm buzzer
 
 Initially, as I couldn’t participate in the last lesson, I wanted to try to understand and see how the buzzer itself works. That is why I created an alarm buzzer for the security system, using a photoresistor and an LED. If a room is dark nothing happens but if any flashlights come closer a red LED and an alarm sound will turn on. *Below you can see my circuit and final video:*
+
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/alarm_buzzer.jfif)
 
 
@@ -13,6 +15,7 @@ Initially, as I couldn’t participate in the last lesson, I wanted to try to un
 ## Attempt 2 - music
 
 Then, I did a kind of musical instrument, using a button and 3 LED lights. The button was used as a toggle switch to turn on particular music and while music is being played LED lights will turn on in order. *Below you can see my circuit and final video:*
+
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/music.jfif)
 
 
@@ -28,19 +31,24 @@ I started with searching for the reference page for the ultrasonic sensor and go
 [Ultrasonic Sensor HC-SR04 is a sensor that can measure distance. It emits ultrasound at 40 000 Hz (40kHz) which travels through the air and if there is an object or obstacle on its path It will bounce back to the module. Considering the travel time and the speed of the sound you can calculate the distance.] 
 
 It uses sonar to determine the distance to an object. A sensor has 2 main pins, which are transmitters: trig and echo. The transmitter (trig pin) sends a signal: a high-frequency sound and if the signal finds an object, it is reflected and the transmitter (echo pin) receives it.
+
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/How-ultrasonic-sensor-works.jpg)
 
 Eventually, along with the ultrasonic sensor and speaker, I decided to add 3 LEDs and a button.  When the yellow button is pressed, it gives a signal to the speaker to play a note, based on the segment in which the object is found, and when pitches are being played 3 LEDs will light up. Using this concept, a person can play anything as long as they are placing something into the segments and pressing the button at the same time. The pitches and LEDs are dependent on the distance sensor's reading values. As I bring my hands further away the pitch of the sound increases while I bring my hands closer to the sensor it decreases. 
 
+*It took me a while to figure out proper connections for all the components I was using. That is why I had to remove all of them on my breadboard and start over a couple of times.* 
 
-It took me a while to figure out proper connections for all the components I was using. That is why I had to remove all of them on my breadboard and start over a couple of times. 
-
-
-### Overall, even thoough this was something new to me I really enjoyed working on it and satisfied with my final result after so many attempts :)
+### Overall, even though this was something new to me I really enjoyed working on it and satisfied with my final result after so many attempts :)
 
 ## The schematics
 
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/schematics_musicalinstrument.jfif)
+
 ## The breadboard
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/trumpet1.jfif)
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/trumpet2.jfif)
 
 ## The final result
 
