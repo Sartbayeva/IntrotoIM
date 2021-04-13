@@ -52,4 +52,8 @@ Eventually, along with the ultrasonic sensor and speaker, I decided to add 3 LED
 
 ## The final result
 
+![](https://youtu.be/OwK1D5jYts0)
+
 ## Helpful resources
+
+https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
