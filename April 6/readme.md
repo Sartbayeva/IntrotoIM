@@ -10,7 +10,7 @@ Initially, as I couldn’t participate in the last lesson, I wanted to try to un
 
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/alarm_buzzer.jfif)
 
-![](https://youtu.be/RX8Q4bA-P64)
+video - https://youtu.be/RX8Q4bA-P64
 
 
 
@@ -54,7 +54,7 @@ Eventually, along with the ultrasonic sensor and speaker, I decided to add 3 LED
 
 ## The final result
 
-![](https://youtu.be/OwK1D5jYts0) 
+https://youtu.be/OwK1D5jYts0
 
 ## Helpful resources
 
