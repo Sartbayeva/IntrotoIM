@@ -1,5 +1,5 @@
 # Musical instrument - TRUMPET
-[]!(https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/finalphoto.jfif)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/finalphoto.jfif)
 
 For this assignment, the task was to create an instrument that included one analogue input and one digital input.
 
