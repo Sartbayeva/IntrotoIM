@@ -52,7 +52,7 @@ Eventually, along with the ultrasonic sensor and speaker, I decided to add 3 LED
 
 ## The final result
 
-![](https://youtu.be/OwK1D5jYts0)
+![](https://youtu.be/OwK1D5jYts0) 
 
 ## Helpful resources
 
