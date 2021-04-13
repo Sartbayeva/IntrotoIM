@@ -56,4 +56,7 @@ https://youtu.be/OwK1D5jYts0
 
 ## Helpful resources
 
-https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
+1. https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
+2. https://www.ardumotive.com/how-to-use-a-buzzer-en.html
+3. https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/
+4. https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380
