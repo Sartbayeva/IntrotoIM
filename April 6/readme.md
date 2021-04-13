@@ -10,9 +10,11 @@ Initially, as I couldn’t participate in the last lesson, I wanted to try to un
 
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/April%206/alarm_buzzer.jfif)
 
+![](https://youtu.be/RX8Q4bA-P64)
 
 
-## Attempt 2 - music
+
+## Attempt 2 - cute music
 
 Then, I did a kind of musical instrument, using a button and 3 LED lights. The button was used as a toggle switch to turn on particular music and while music is being played LED lights will turn on in order. *Below you can see my circuit and final video:*
 
