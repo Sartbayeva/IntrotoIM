@@ -1,3 +1,6 @@
+## Final Project Proposal
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/final%20project/DoodleJump.png)
+
 For my Final Project, I am probably going to create a game similar to Doodle Jump. I used to play this game a lot when I was younger, and so I would like to add some new elements to it and recreate this game. 
 
 My character will keep jumping higher and higher while earning points. Also, there will be different special objects as the doodle player gets higher. The special objects will include things related to NYUAD.
