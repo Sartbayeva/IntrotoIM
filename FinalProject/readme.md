@@ -50,8 +50,12 @@ This was my main challenge throughout this project. Even though it was powered, 
 
 ## Arduino and Processing: Serial Communication
 As my project itself on Arduino is not easy, I did not want to have a complicated code in Processing. Also, taking into consideration this short time frame I decided to display on the screen the position of the robot while it is moving. It seemed to me that serial communication would take me quite a lot of time but it was pretty fast. 
-Arduino to Processing:
+
+*Arduino to Processing:*
 The ultrasonic distance measuring sensor detects an obstacle and transmits this data to the Processing.
+
+*Processing to Arduino:*
+Processing will receive the data from Arduino and display the corresponding messages. If there is an obstacle a user will see that he is in the dangerous zone. If there are no obstacles the screen of a user will show that he is in the safe zone. 
 
 ## Process & Journal
 
