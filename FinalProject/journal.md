@@ -22,28 +22,40 @@ Hey. I changed my mind. I am not going to create this game as I decided to do so
 
 *The result:* I am done with the circuit. I feel like it is working. I referred to an example we did at class. But as we connected only 1 motor in class I added one more. Actually, before starting my circuit I got acquainted with many new components that I have not used before except the practical exercise that we did during the class. 
 
-Here is what I have learned so far:
+here is my prototype:
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/robot%20prototype.jfif)
+
+#### Here is what I have learned so far:
 1. Motors require a lot of current. That is why it turned out that we can’t drive them directly from a digital pin on the arduino. Instead, we have to use a motor driver board to power and spin themotors accordingly. The motor controller contains a set of switches (called an H-bridge) that let us easily control the direction of the motors. Also, for me it was not easy to insert in on the breadboard. This is such a fragile component. I had to remove it a couple of times from the breadboard to leave enough space for other components too. And guess what? As it has many legs it was harder to pull it out and I was afraid that I may damage its bridge. So, to make it easier I recalled that I have a screwdriver. Finally, I opened and used it. haha
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/motor%20driver.jfif)
+
 2. Next new component was a switch. It is just like the momentary buttons that we used in earlier projects. Function is to control the openness or closedness of an electric circuit. However, a switch is different in that it will stay in the position it was last in until it is switched again. WHY I DID NOT KNOW THAT WE HAVE IT IN OUR KIT? Anyways, this is such a convenient component. 
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/motor%20drover%20%2B%20switch.jfif)
+
 3. Final component was an ultrasonic sensor. As I have already used it in making my musical instrument I can say that I know well how it works, that is why I did not have any problems while wiring it..
-![](circuit)
-![](sketch)
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/motor%20drover%20%2B%20switch%20%2B%20sensor.jfif)
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/circuit%20initial.jfif)
  
 
 # April 22, 2021
 Today, I crafted my robot. In order for my robot to be mobile I used the battery pack. Finally, I opened and tested that battery holder. I bought the batteries from the Convenience Store, came to my dorm and inserted them into the holder. One problem that I had encountered today was that one motor was not spinning at all. I tested each of the motors one by one. After checking the circuit and code, it turned out that I have mixed up wires connected to the motor driver. Oops!
 
-![https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/1.jfif]
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/1.jfif)
 
-![https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/2.jfif]
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/2.jfif)
 
-![https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/3.jfif]
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/3.jfif)
 
-![https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/4.jfif]
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/4.jfif)
 
-![https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/5.jfif]
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/5.jfif)
 
-![https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/6.jfif]
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/6.jfif)
 
 
 # April 25, 2021
