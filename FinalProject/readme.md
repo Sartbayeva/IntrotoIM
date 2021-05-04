@@ -12,15 +12,18 @@ will display a warning message.
 
 ## Main components
 The HC-SR04 ultrasonic distance sensor: serves as the sensor that gives information on obstacles, detects objects within 10 cm
+
 Two DC Motors: spin to rotate wheels, and in charge of robot’s movement
+
 A buzzer: generate warning beeps when the robot encounters obstacles
+
 A switch: to turn the robot on and off
 
 ## Schematic 
 
 The schematic for this project is below. 
 
-![]()
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/schematics.jfif)
 
 ## Final Circuit
 
