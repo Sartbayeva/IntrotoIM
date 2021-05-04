@@ -103,6 +103,9 @@ I need to show 2 messages: 1 - *warning zone*, when the robot encounters any obs
 
 ##### Finally, I am done with my Final Project.  Even though it was frustrating and nerve-wracking, I definitely enjoyed the whole process. Most importantly, this project gave me a big learning experience!!! I am proud of myself.
  
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/7.jfif)
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/my robot.jfif)
  
  
  
