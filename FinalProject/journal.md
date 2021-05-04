@@ -1,17 +1,31 @@
-#April 14, 2021#
-Final Project Proposal
+# April 14, 2021
+### Final Project Proposal
  
-For my Final Project, I am probably going to recreate an old game Doodle Jump. I used to play this game a lot when I was younger and had an Android phone, and so I would like to add some new elements to it and recreate this game.
+For my Final Project, I am probably going to recreate an old game Doodle Jump. I used to play this game a lot when I was younger and had an Android phone, and so I would like to
+add some new elements to it and recreate this game.
+
 My character will keep jumping higher and higher while earning points. Also, there will be different special objects as the doodle player gets higher. The special objects will include things and associations related to NYUAD. For example, Faiza, Falcon, Marketplace, CDC, D2, symptom checker, PCR and etc. By catching these items, a player gets bonus points. Below you can find the rough sketch of the game that I made on my iPad:
-![](  )
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/doodle%20jump%20prototype.jfif)
+
 I am planning to use 4 switches/buttons to control my character’s moving up, down, left and right. Also, I am thinking about including a photoresistor to catch those NYUAD objects. 
-This game itself would be reflected on the screen with the score and the various elements 
-I will use both the Arduino and Processing to make this game. Arduino will determine if one of the buttons is pressed and whether the photoresistor is covered thus send the input to Processing, while Processing will take the input from the buttons, the photoresistor, and use them to move the doodle character to the left, right, top or bottom, and to catch the objects.
-April 17, 2021
-Hey. I changed my mind. I am not going to create this game as I decided to do something more complicated and creative.  Also, that jumping game is something that I had already done similar to and I feel like I knew how to implement it. I would like to try something that I hadn't done before.  Thanks to the Professor, who advised me today, I will make an obstacle-avoiding robot. Yes, yes, robot! I am so excited to do this. Will see :) 
-April 20, 2021
-The goal for this day: to start wiring up my circuit and make a prototype in the form of a sketch similar to a robot, if time permits, to start implementing it. To make this robot I need: two gear motors, a motor driver, switch, wires, 2 wheels, dual lock tape, and the most important - an ultrasonic sensor. 
-The result: I am done with the circuit. I feel like it is working. I referred to an example we did at class. But as we connected only 1 motor in class I added one more. Actually, before starting my circuit I got acquainted with many new components that I have not used before except the practical exercise that we did during the class. Here is what I have learned so far: Motors require a lot of current. That is why it turned out that we can’t drive them directly from a digital pin on the arduino. Instead, we have to use a motor driver board to power and spin themotors accordingly. The motor controller contains a set of switches (called an H-bridge) that let us easily control the direction of the motors. Also, for me it was not easy to insert in on the breadboard. This is such a fragile component. I had to remove it a couple of times from the breadboard to leave enough space for other components too. And guess what? As it has many legs it was harder to pull it out and I was afraid that I may damage its bridge. So, to make it easier I recalled that I have a screwdriver. Finally, I opened and used it. haha. Next new component was a switch. It is just like the momentary buttons that we used in earlier projects. Function is to control the openness or closedness of an electric circuit. However, a switch is different in that it will stay in the position it was last in until it is switched again. WHY I DID NOT KNOW THAT WE HAVE IT IN OUR KIT? Anyways, this is such a convenient component. Final component was an ultrasonic sensor. As I have already used it in making my musical instrument I can say that I know well how it works, that is why I did not have any problems while wiring it.
+
+This game itself would be reflected on the screen with the score and the various elements. I will use both the Arduino and Processing to make this game. Arduino will determine if one of the buttons is pressed and whether the photoresistor is covered thus send the input to Processing, while Processing will take the input from the buttons, the photoresistor, and use them to move the doodle character to the left, right, top or bottom, and to catch the objects.
+
+
+# April 17, 2021
+Hey. I changed my mind. I am not going to create this game as I decided to do something more complicated and creative. Also, that jumping game is something that I had already done similar to and I feel like I knew how to implement it. I would like to try something that I hadn't done before. Thanks to the Professor, who advised me today, I will make an obstacle-avoiding robot. Yes, yes, robot! I am so excited to do this. Will see :) 
+
+
+# April 20, 2021
+*The goal for this day:* to start wiring up my circuit and make a prototype in the form of a sketch similar to a robot, if time permits, to start implementing it. To make this robot I need: two gear motors, a motor driver, switch, wires, 2 wheels, dual lock tape, and the most important - an ultrasonic sensor. 
+
+*The result:* I am done with the circuit. I feel like it is working. I referred to an example we did at class. But as we connected only 1 motor in class I added one more. Actually, before starting my circuit I got acquainted with many new components that I have not used before except the practical exercise that we did during the class. 
+
+Here is what I have learned so far:
+1. Motors require a lot of current. That is why it turned out that we can’t drive them directly from a digital pin on the arduino. Instead, we have to use a motor driver board to power and spin themotors accordingly. The motor controller contains a set of switches (called an H-bridge) that let us easily control the direction of the motors. Also, for me it was not easy to insert in on the breadboard. This is such a fragile component. I had to remove it a couple of times from the breadboard to leave enough space for other components too. And guess what? As it has many legs it was harder to pull it out and I was afraid that I may damage its bridge. So, to make it easier I recalled that I have a screwdriver. Finally, I opened and used it. haha
+2. Next new component was a switch. It is just like the momentary buttons that we used in earlier projects. Function is to control the openness or closedness of an electric circuit. However, a switch is different in that it will stay in the position it was last in until it is switched again. WHY I DID NOT KNOW THAT WE HAVE IT IN OUR KIT? Anyways, this is such a convenient component. 
+3. Final component was an ultrasonic sensor. As I have already used it in making my musical instrument I can say that I know well how it works, that is why I did not have any problems while wiring it..
 ![](circuit)
 ![](sketch)
  
