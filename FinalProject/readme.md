@@ -11,13 +11,13 @@ an alarm buzzer will be played, it will stop, back up and turn to the right befo
 will display a warning message.
 
 ## Main components
-The HC-SR04 ultrasonic distance sensor: serves as the sensor that gives information on obstacles, detects objects within 10 cm
+1) *The HC-SR04 ultrasonic distance sensor:* serves as the sensor that gives information on obstacles, detects objects within 10 cm
 
-Two DC Motors: spin to rotate wheels, and in charge of robot’s movement
+2) *Two DC Motors:* spin to rotate wheels, and in charge of robot’s movement
 
-A buzzer: generate warning beeps when the robot encounters obstacles
+3) *A buzzer:* generate warning beeps when the robot encounters obstacles
 
-A switch: to turn the robot on and off
+4) *A switch:* to turn the robot on and off
 
 ## Schematic 
 
@@ -27,14 +27,17 @@ The schematic for this project is below.
 
 ## Final Circuit
 
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/9.jfif)
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/circuit.jfif)
+
 ## Game Demonstration Video 
 
-Click this link to see the final result of my work:
-
-https://youtu.be/J7ljON5hl9s 
-
+Click this link to see the final result of my work: https://youtu.be/J7ljON5hl9s 
 
 ## Demo GIF 
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/moving%20robot%20gif.gif)
 
 ## Challenges 
 
