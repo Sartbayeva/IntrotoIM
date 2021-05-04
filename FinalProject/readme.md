@@ -4,6 +4,9 @@ Initially, I was planning to recreate an old game Doodle Jump by adding NYUAD-re
 I would have liked to try something creative that I hadn't done before. So, for my final project, using Arduino and Processing, I decided to construct an obstacle-avoiding robot. 
 
 ![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/my%20robot.jfif)
+
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/12.png)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/11.png)
  
 ## Description
 When the switch is turned on, the robot will drive forward until it senses an object. When the switch is turned off, the robot will sit still. When it encounters an object, 
