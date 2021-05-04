@@ -71,14 +71,16 @@ When the robot encounters an obstacle, there will be a warning sound like an ala
 # April 27, 2021
 My goal for today was to start doing *Serial Communication* with Processing. In Particular, I was planning to create a sketch in Processing. However, unfortunately, this goal is not achieved. Because during today's class I noticed that when I put my robot on top of the table it stops working. Literally, motors stop spinning. But what is so interesting is that when I hold the robot in my hand it works perfectly, sometimes it drives slowly. I went to the breakout room with the Professor and asked him the reason behind that. He checked my code and said that there are no issues with it. Then asked me to send the schematics of my circuit. I drew my schematics and sent it to the discord. The circuit also looks fine. 
 
-![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/initial%20schematics.jpg)
+![](https://github.com/Sartbayeva/IntrotoIM/blob/main/FinalProject/images/initial%20schematicsss.jpg)
 
 So, I thought that the problem may be in the batteries. Maybe some of them are dead, who knows :/ I am going to buy new batteries after dinner...
 
 
 # April 28, 2021
 It is 04:24 am. The deadline is tomorrow. I am so WORRIED omg but I still have a whole day and also time before our class. Update: I bought new batteries, replaced it with old ones but I still have the same problem. What is the problem??? It worked perfectly until I added a buzzer. Maybe the problem is there I thought. I removed a buzzer, but anyways the wheels move so slow. Then I took some close up pictures of my wiring, so that the Professor could clearly see all the wires. Also took a video of the wiring while moving my camera over the board to cover all angles. Posted it on Github and Google Drive Now, I am going to wait for the Professor's response.
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Professor could not see any errors but he said that possibly part of the motor driver is damaged. The motor driver may have been damaged by a temporary short circuit or wires connected to the wrong place. This could have been very brief and he mentioned that I wouldn't have seen any evidence of the damage. So, he suggested me to swap our motor drivers. But since I had 3 classes today I did not have time to go off campus and asked my friend’s motor driver as she is not using it in her final project. I pried out my motor driver so gently with a screwdriver and inserted a new one. I was so hopeful that after replacing it, it would work perfectly as before. No. It again does not move on the table. I was really so pissed off. I have replaced batteries and now a motor driver. I was so curious to know what is the problem here...
 
 Once I stared at my breadboard for a while… Then suddenly I noticed that I am using all the pins of the motor driver except GND. According to the examples that we did in class and tutorials on the Internet, it is not mandatory to use this pin and no one mentioned about using it. But I was like: let’s try to hook this up. *And GUESS WHAAT???! My robot drives SO CRAZY!* Wherever I put it or held it, motors spin so fast. Faster than before. I wish you could see my reaction when I saw how it worked. I was so happy! After many trials, finally it w-o-r-k-e-d! I decreased the speed of motors from 255 till 200. This is what I want. Perfect.
